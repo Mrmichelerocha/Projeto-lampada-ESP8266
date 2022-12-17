@@ -1,7 +1,7 @@
-# Pagina Web para o projeto Lampada Inteligente
+# Projeto Lampada Inteligente ESP8266
 
-Este sistema usa tratamento de dados de big data, para analise de graficos usando pandas.
-O site foi feito em django para comunicação entre dispositivo IoT, Nuvem ThingSpeak e tratamento de dados para monitoramento dos Relés
+Este sistema usa ESP8266 para conexão a internet para ligar e desligar uma lampada, tonando uma lampada normal em IoT
+Implementa o ESP8266 aos Relés com comunicação com Sinric, ThingSpeak e Nest Mini(a alexa do google)
 
 
 
@@ -31,8 +31,6 @@ Utilizando apenas **PYTHON** e as bibliotecas:
 > - ThingSpeak (nuvem)
 > - Sinric
 
-
-<a href = ""><img src="![Captura de tela de 2022-12-17 12-44-16](https://user-images.githubusercontent.com/93664169/208249916-82d39e9d-9a95-4e77-b1c6-841e0b05e8f1.png)" target="_blank"></a> 
 
 ### 🤝 Suporte/Contato
 
