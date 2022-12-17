@@ -22,21 +22,19 @@ Esse projeto foi uma proposta da aula de redes da universidade federal de santa 
 
 ## 🔧 Funções
 
-- Mostar o consumo do usaurio com o tempo de uso da lampada
+- Conectar lampada a rede IEEE 802.11 
 - Mostar os dispositivos conectados 
-- Determinar o tempo decorrido
-- Mostar os graficos de uso 
+- Comunicação via celular
+- Comunicação por voz 
 
 ## 👨‍💻 Tecnologias Utilizadas
 
 Utilizando apenas **PYTHON** e as bibliotecas:
-> - HTML
-> - Bootstrap
-> - Plotly
-> - Pandas
-> - Big Data
-> - ThingsSpeack (nuvem)
-> - Sinric 
+> - Protocolo IEEE 802.11 
+> - Platform io
+> - C++
+> - ThingSpeak (nuvem)
+> - Sinric
 
 
 <a href = ""><img src="![Captura de tela de 2022-12-17 12-44-16](https://user-images.githubusercontent.com/93664169/208249916-82d39e9d-9a95-4e77-b1c6-841e0b05e8f1.png)" target="_blank"></a> 
