@@ -2,6 +2,7 @@
 
 Este sistema usa ESP8266 para conexão a internet para ligar e desligar uma lampada, Transformando uma lampada normal em IoT
 Implementa o ESP8266 aos Relés com comunicação com Sinric, ThingSpeak e Nest Mini(a alexa do google)
+a continuação do projeto mostra uma interface para o usuario monitorar o consumo acesso no repositorio interface-web-esp8266
 
 
 
