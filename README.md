@@ -1,6 +1,6 @@
 # Projeto Lampada Inteligente ESP8266
 
-Este sistema usa ESP8266 para conexão a internet para ligar e desligar uma lampada, tonando uma lampada normal em IoT
+Este sistema usa ESP8266 para conexão a internet para ligar e desligar uma lampada, Transformando uma lampada normal em IoT
 Implementa o ESP8266 aos Relés com comunicação com Sinric, ThingSpeak e Nest Mini(a alexa do google)
 
 
