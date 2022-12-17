@@ -9,7 +9,10 @@ Este sistema usa tratamento de dados de big data, para analise de graficos usand
 O site foi feito em django para comunicação entre dispositivo IoT, Nuvem ThingSpeak e tratamento de dados para monitoramento dos Relés
 
 
-![6 (1)](https://user-images.githubusercontent.com/93664169/208249614-c6a02f3f-8205-477f-a7fc-f5449967f5a7.jpeg)
+
+https://user-images.githubusercontent.com/93664169/208250410-401a8a55-5654-411f-8e6e-19c07f607b00.mp4
+
+
 
 
 
