@@ -24,7 +24,7 @@ Esse projeto foi uma proposta da aula de redes da universidade federal de santa 
 
 ## 👨‍💻 Tecnologias Utilizadas
 
-Utilizando apenas **PYTHON** e as bibliotecas:
+Utilizando apenas **C++** e as bibliotecas:
 > - Protocolo IEEE 802.11 
 > - Platform io
 > - C++
